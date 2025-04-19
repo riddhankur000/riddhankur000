@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 
 ### ML / AI / Data Science  
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,pytorch" />  
+<img src="https://skillicons.dev/icons?i=pandas,pytorch" />  
 🧠 Transformers, HuggingFace, Scikit-learn, LangChain
 
 ### Databases  
@@ -54,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=linux,git,github,netlify" />
 
 ### Editors  
-<img src="https://skillicons.dev/icons?i=vscode,bash" />
+<img src="https://skillicons.dev/icons?i=vscode,bash,googlecolab" />
 
 ### Editing Tools & Software  
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />

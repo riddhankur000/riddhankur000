@@ -8,7 +8,7 @@
 
 <h4 align="center">
   <samp>
-    Welcome to my GitHub world! I'm passionate about building scalable ML and AI systems, exploring the depths of language models, and contributing to open source. I thrive on collaboration and learning from others. Let's innovate together 🚀
+    Welcome to my GitHub world! I'm passionate about Deep Learning, LLMs, and Modern AI Systems, exploring the depths of language models, and contributing to research projects. Web technologies are my next interest. I thrive on collaboration and learning from others. Let's innovate together 🚀
   </samp>
 </h4>
 
@@ -29,9 +29,8 @@
 - 🎓 Computer Science Enthusiast
 - 🤖 Currently focused on **LLMs**, **AI**, and **NLP**
 - 🔬 Exploring **transformers**, **language generation**, and **model fine-tuning**
-- 🔧 Actively working on open source and research projects
-- 💬 Always up for a chat about AI, DevOps, or Linux
-- 🧑‍💻 Proficient in Python, JavaScript, and modern ML stacks
+- 🔧 Working research projects
+- 🧑‍💻 Comfortable with WEB Development Technologies like MERN STACK
 - 📚 Lifelong learner & tech tinkerer
 
 ---
@@ -83,7 +82,7 @@
 
 ---
 
-<img align="center" src="https://streak-stats.demolab.com/?user=UditDe&theme=gotham" alt="Udit's github streak" />
+<img align="center" src="https://streak-stats.demolab.com/?user=riddhankur000&theme=gotham" alt="Udit's github streak" />
 
 ---
 

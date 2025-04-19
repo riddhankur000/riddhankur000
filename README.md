@@ -74,7 +74,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiddhankurSarkar&theme=tokyonight&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riddhankur000&theme=tokyonight&column=4" />
 </p>
 
 ---

@@ -74,8 +74,16 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riddhankur000&theme=tokyonight&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riddhankur000&theme=tokyonight&column=4&row=1" />
 </p>
+
+---
+
+<a href="https://github.com/riddhankur000/github-readme-stats"><img align="center" src="https://github-readme-stats-nemesislw.vercel.app//api?username=riddhankur000&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="Riddhankur's github stats" /></a>   <a href="https://github.com/riddhankur000/github-readme-stats"><img align="center" src="https://github-readme-stats-nemesislw.vercel.app//api/top-langs/?username=riddhankur000&layout=compact&hide=css,scss,jupyter%20notebook&theme=dracula&hide_border=true" /></a>
+
+---
+
+<img align="center" src="https://streak-stats.demolab.com/?user=UditDe&theme=gotham" alt="Udit's github streak" />
 
 ---
 

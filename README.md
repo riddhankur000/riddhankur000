@@ -60,6 +60,15 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
 
 ---
+
+ <p align="center">
+  <a href="https://www.codechef.com/users/riddhankur"><img align="center" alt=codechef src="https://img.shields.io/badge/codechef-%236DB33A.svg?logo=codechef&logoColor=white" />   </a>
+  <a href="https://leetcode.com/u/wricksarkar051102/"><img alt=leetcode align="center" src="https://img.shields.io/badge/leetcode-%2343853D.svg?logo=leetcode&logoColor=white" /></a>
+
+ </p>
+
+ ---
+
 <!--
 <h3 align="center">⚡ GitHub Stats</h3>
 
